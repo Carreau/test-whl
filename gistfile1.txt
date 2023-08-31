@@ -1,0 +1,1 @@
+test arm wheel for https://github.com/mkleehammer/pyodbc/discussions/1263
